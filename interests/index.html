@@ -1,40 +1,43 @@
 ---
 layout: default
 title: Interests
+
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Embedded CmapViewer</title>
 
-<div class="page page-interests">
-  <div class="row center-xs">
-    <div class="col-xs-12">
-      <h1>Interests and Skills</h1>
-      <p class="small">An updated list of what I can do, what I like to do, and what I wish to learn in the near future.</p>
-    </div>
-  </div>
+<link rel="stylesheet" type="text/css" href="resources/css/bootstrap/bootstrap.css"/>
+<link rel="stylesheet" type="text/css" href="resources/css/bootstrap/bootstrap-theme.css" />
+<link rel="stylesheet" type="text/css" href="resources/css/cmap.css" />
+</head>
+<body>
+<div class="container"> 
+<div class="cmap-message">
+<p class="legend">Embedded Cmap</p>
+<p>
+Below is an embedded Cmap using the tag<br>
+<code>&lt;iframe src="https://cmapcloud.ihmc.us/viewer/cmap/1N7WL8GC2-1022C4F-
+2WCD" width="640" height="480" frameborder="0" &gt;&lt;/iframe&gt;</code>
+</p>
 
-  <div class="interests-row row top-xs">
-    <div class="col-xs-12 center-xs">
-      <h2>What I can do</h2>
-      <p class="small">The things I do professionally, academically, and well, for fun as well.</p>
-    </div>
+<iframe src="https://cmapcloud.ihmc.us/viewer/cmap/1N7WL8GC2-1022C4F-2WCD"
+width="640" height="480" frameborder="0"></iframe>
 
-    {% for skill in site.data.interests.skills %}
-      <div class="col-xs-12 col-md-3">
-        <p class="interest-type">{{ skill.category }}</p>
-      </div>
-      <ul class="tag-list col-xs-12 col-md-9">
-        {% for item in skill.items %}
-          <li class="tag">
-            {% if item.url %}
-              <a href="{{ item.url }}">{{ item.name }}</a>
-            {% else %}
-              <span>{{ item.name }}</span>
-            {% endif %}
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
+</div>
 
-  </div>
+<div id="footer">
+<div class="copyright">
+&copy; 2014 IHMC
+</div>
+</div>
+</div>
+</body>
+</html>
 
   <div class="interests-row row center-xs">
     <div class="col-xs-12">
