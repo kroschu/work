@@ -26,8 +26,6 @@ navigation:
     url: /portfolio/
   - title: Блог
     url: /blog/
-  - title: Карта
-    url: /map/
   - title: Резюме
     url: /resume/
 
