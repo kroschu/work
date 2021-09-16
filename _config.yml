@@ -14,7 +14,7 @@ url: 'https://treba.ml' # the base hostname & protocol for your site
 
 author:
   name: Володимир Коваленко
-  facebook: 'kroschu'
+  facebook: 'tukroschu'
   twitter: 'kroschu'
   github: 'kroschu'
   linkedin: 'kroschu1'
@@ -22,7 +22,7 @@ author:
 navigation:
   - title: Про
     url: /
-  - title: Портфоліо
+  - title: Презентації
     url: /portfolio/
   - title: Блог
     url: /blog/
