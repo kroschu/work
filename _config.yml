@@ -28,6 +28,8 @@ navigation:
     url: /blog/
   - title: Резюме
     url: /resume/
+  - title: Контакти
+    url: /contact/
 
 # Comments
 allow_comments: true
