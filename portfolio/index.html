@@ -19,7 +19,7 @@ title: Portfolio
         <div class="row">
           {% for item in year.items %}
             <a href="{{ item.url }}" class="portfolio-item col-xs-12 col-md-6">
-              <img src="/assets/images/portfolio/banners/{{ item.banner }}" alt="{{ item.title }}">
+              <img src="/uploads/{{ item.banner }}" alt="{{ item.title }}">
             </a>
           {% endfor %}
         </div>
