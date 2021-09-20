@@ -55,7 +55,7 @@ defaults:
     values:
       device: desktop
       orientation: landscape
-      basepath: uploads/
+      basepath: portfolio/screenshots/
 
 # General settings
 encoding: utf-8
