@@ -97,6 +97,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-admin
+  - jekyll-gist
 
 jekyll_admin:
   hidden_links:
