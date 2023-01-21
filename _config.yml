@@ -7,13 +7,13 @@
 
 # Site settings
 title: і коти проти блекаутів!
-description: Інженер
+description: 
 baseurl: '' # the subpath of your site, e.g. /blog
 permalink: '/blog/:title/'
 url: 'http://vokov.netlify.app' # the base hostname & protocol for your site
 
 author:
-  name: Володимир Коваленко
+  name: КітБаюн
   facebook: 'tukroschu'
   twitter: 'kroschu'
   github: 'kroschu'
