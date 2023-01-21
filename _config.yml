@@ -107,3 +107,6 @@ jekyll_admin:
     - datafiles
     - configuration
   homepage: "pages"
+
+gist:
+  noscript: false
