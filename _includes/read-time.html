@@ -5,7 +5,7 @@
     {% elsif words < 360 %}
     прочитаєте за хвилину
   {% else %}
-    {{ words | divided_by:180 }}  хвилин читаня
+    {{ words | divided_by:180 }} хвилин читаня
   {% endif %}
 {% else %}
   {% assign words = content | number_of_words %}
@@ -14,6 +14,6 @@
     {% elsif words < 360 %}
     1 minute read
   {% else %}
-    {{ words | divided_by:180 }} minute read
+    {{ words | divided_by:180 }} хвилин читаня 
   {% endif %}
 {% endif %}
