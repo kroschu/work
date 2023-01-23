@@ -3,9 +3,9 @@
   {% if words < 180 %}
     less than 1 minute read
     {% elsif words < 360 %}
-    1 minute read
+    1 хвилина читання
   {% else %}
-    {{ words | divided_by:180 }} minute read
+    {{ words | divided_by:180 }}  хвилин читаня
   {% endif %}
 {% else %}
   {% assign words = content | number_of_words %}
