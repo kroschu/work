@@ -8,6 +8,7 @@ layout: default
   <p class="post-meta small">Опубліковано {{ page.date | date: "%B %-d %Y" }} &middot; {% include read-time.html %}</p>
 
   {{ content }}
+  {% include accordion.html %}
 
   {% if site.allow_comments %}
     <div class="post-comments">
