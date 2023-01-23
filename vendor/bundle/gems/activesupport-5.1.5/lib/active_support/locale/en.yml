@@ -13,7 +13,7 @@ en:
 
     # Don't forget the nil at the beginning; there's no such thing as a 0th month
     month_names: [~, в січені, в лютому, в березені, у квітні, в травені, в червні, в липні, в серпні, в вересні, в жовтені, в листопаді, в грудені]
-    abbr_month_names: [~, Січ, Лют, Бер, Кві, Тра, Чер, Лип, Aug, Sep, Oct, Nov, Dec]
+    abbr_month_names: [~, Січ, Лют, Бер, Кві, Тра, Чер, Лип, Сер, Sep, Oct, Nov, Dec]
     # Used in date_select and datetime_select.
     order:
       - year
