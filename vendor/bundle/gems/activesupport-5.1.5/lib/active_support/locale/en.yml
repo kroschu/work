@@ -12,8 +12,8 @@ en:
     abbr_day_names: [Sun, Mon, Tue, Wed, Thu, Fri, Sat]
 
     # Don't forget the nil at the beginning; there's no such thing as a 0th month
-    month_names: [~, в січені, в лютому, в березені, у квітні, в травені, в червні, в липні, в серпні, в вересні, в жовтені, листопад, грудень]
-    abbr_month_names: [~, Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
+    month_names: [~, в січені, в лютому, в березені, у квітні, в травені, в червні, в липні, в серпні, в вересні, в жовтені, в листопаді, в грудені]
+    abbr_month_names: [~, Січ, Лют, Бер, Кві, Тра, Jun, Jul, Aug, Sep, Oct, Nov, Dec]
     # Used in date_select and datetime_select.
     order:
       - year
