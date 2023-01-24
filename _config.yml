@@ -26,10 +26,11 @@ navigation:
     url: /resume/
   - title: Радимось
     url: /contact/
-  - title: Допомагаємо
-    url: /portfolio/
   - title: Вирішуєсо
     url: /blog/
+  - title: Допомагаємо
+    url: /portfolio/
+
 
 
 # Comments
