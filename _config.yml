@@ -13,14 +13,14 @@ permalink: '/blog/:title/'
 url: 'http://vokov.netlify.app' # the base hostname & protocol for your site
 
 author:
-  name: КітБаюн
+  name: з тобою
   facebook: 'tukroschu'
   twitter: 'kroschu'
   github: 'kroschu'
   linkedin: 'kroschu1'
 
 navigation:
-  - title: Про
+  - title: 
     url: /
   - title: Презентації
     url: /portfolio/
