@@ -26,9 +26,8 @@ navigation:
     url: /resume/
   - title: Допомагаємо
     url: /portfolio/
-  - title: 
+  - title: Вирішуєсо
     url: /blog/
-
   - title: Спілкуємось
     url: /contact/
 
