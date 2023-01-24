@@ -24,11 +24,11 @@ navigation:
     url: /
   - title: Презентації
     url: /portfolio/
-  - title: Про
+  - title: 
     url: /blog/
   - title: Про
     url: /resume/
-  - title: Контакти
+  - title: Спілкуємось
     url: /contact/
 
 # Comments
