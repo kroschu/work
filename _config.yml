@@ -20,11 +20,11 @@ author:
   linkedin: 'kroschu1'
 
 navigation:
-  - title: 
+  - title: Головна
     url: /
   - title: Презентації
     url: /portfolio/
-  - title: Блог
+  - title: Про
     url: /blog/
   - title: Про
     url: /resume/
