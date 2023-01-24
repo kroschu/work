@@ -22,12 +22,13 @@ author:
 navigation:
   - title: Головна
     url: /
-  - title: Допомагаємо
-    url: /dopomoga/
-  - title: 
-    url: /blog/
   - title: Про
     url: /resume/
+  - title: Допомагаємо
+    url: /portfolio/
+  - title: 
+    url: /blog/
+
   - title: Спілкуємось
     url: /contact/
 
