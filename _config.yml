@@ -24,12 +24,13 @@ navigation:
     url: /
   - title: Про
     url: /resume/
+  - title: Радимось
+    url: /contact/
   - title: Допомагаємо
     url: /portfolio/
   - title: Вирішуєсо
     url: /blog/
-  - title: Спілкуємось
-    url: /contact/
+
 
 # Comments
 allow_comments: true
