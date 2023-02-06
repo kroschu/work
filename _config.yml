@@ -101,6 +101,7 @@ plugins:
   - jekyll-admin
   - jekyll-gist
   - jekyll-twitter-plugin
+  - jekyll_oembed
 
 jekyll_admin:
   hidden_links:
