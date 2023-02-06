@@ -101,7 +101,6 @@ plugins:
   - jekyll-admin
   - jekyll-gist
   - jekyll-twitter-plugin
-  - jekyll_oembed
   - jekyll-embed-urls
 
 
