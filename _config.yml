@@ -102,6 +102,8 @@ plugins:
   - jekyll-gist
   - jekyll-twitter-plugin
   - jekyll_oembed
+  - jekyll-embed-urls
+
 
 jekyll_admin:
   hidden_links:
